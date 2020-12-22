@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ultimated-form-on-hooks/static/css/main.4c64757c.chunk.css",
-    "main.js": "/ultimated-form-on-hooks/static/js/main.b563b82f.chunk.js",
-    "main.js.map": "/ultimated-form-on-hooks/static/js/main.b563b82f.chunk.js.map",
+    "main.js": "/ultimated-form-on-hooks/static/js/main.aa2090a1.chunk.js",
+    "main.js.map": "/ultimated-form-on-hooks/static/js/main.aa2090a1.chunk.js.map",
     "runtime-main.js": "/ultimated-form-on-hooks/static/js/runtime-main.39083915.js",
     "runtime-main.js.map": "/ultimated-form-on-hooks/static/js/runtime-main.39083915.js.map",
     "static/js/2.1ca75f68.chunk.js": "/ultimated-form-on-hooks/static/js/2.1ca75f68.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.39083915.js",
     "static/js/2.1ca75f68.chunk.js",
     "static/css/main.4c64757c.chunk.css",
-    "static/js/main.b563b82f.chunk.js"
+    "static/js/main.aa2090a1.chunk.js"
   ]
 }
