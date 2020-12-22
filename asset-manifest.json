@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ultimated-form-on-hooks/static/css/main.4c64757c.chunk.css",
+    "main.js": "/ultimated-form-on-hooks/static/js/main.b563b82f.chunk.js",
+    "main.js.map": "/ultimated-form-on-hooks/static/js/main.b563b82f.chunk.js.map",
+    "runtime-main.js": "/ultimated-form-on-hooks/static/js/runtime-main.39083915.js",
+    "runtime-main.js.map": "/ultimated-form-on-hooks/static/js/runtime-main.39083915.js.map",
+    "static/js/2.1ca75f68.chunk.js": "/ultimated-form-on-hooks/static/js/2.1ca75f68.chunk.js",
+    "static/js/2.1ca75f68.chunk.js.map": "/ultimated-form-on-hooks/static/js/2.1ca75f68.chunk.js.map",
+    "static/js/3.521abf29.chunk.js": "/ultimated-form-on-hooks/static/js/3.521abf29.chunk.js",
+    "static/js/3.521abf29.chunk.js.map": "/ultimated-form-on-hooks/static/js/3.521abf29.chunk.js.map",
+    "index.html": "/ultimated-form-on-hooks/index.html",
+    "static/css/main.4c64757c.chunk.css.map": "/ultimated-form-on-hooks/static/css/main.4c64757c.chunk.css.map",
+    "static/js/2.1ca75f68.chunk.js.LICENSE.txt": "/ultimated-form-on-hooks/static/js/2.1ca75f68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39083915.js",
+    "static/js/2.1ca75f68.chunk.js",
+    "static/css/main.4c64757c.chunk.css",
+    "static/js/main.b563b82f.chunk.js"
+  ]
+}
